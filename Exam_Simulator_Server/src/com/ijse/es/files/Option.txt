@@ -1,0 +1,60 @@
+Q2O1#Q2#A class with the same name replaces the functionality of a class defined earlier in the  hierarchy  .#
+Q2O2#Q2#A method with the same name completely replaces the functionality of a method earlier in the hierarchy .#
+Q2O3#Q2#A method with the same name but different  parameters gives multiple uses for the same  method name. #
+Q2O4#Q2# A class is prevented from accessing methods in its immediate ancestor.   #
+Q3O1#Q3#The throw keyword#
+Q3O2#Q3#The function that caused the error#
+Q3O3#Q3#The catch block#
+Q3O4#Q3#An object of the exception class#
+Q4O1#Q4#To any function in the program#
+Q4O2#Q4#Only if you the password#
+Q4O3#Q4#To member functions of that class#
+Q4O4#Q4#Only to public members of the class#
+Q5O1#Q5#Run-time error#
+Q5O2#Q5#Compile time error#
+Q5O3#Q5#Logical error#
+Q5O4#Q5#All of the above#
+Q6O1#Q6#Abstraction#
+Q6O2#Q6#Inheritance#
+Q6O3#Q6#Encapsulation#
+Q6O4#Q6#Polymorphism #
+Q7O1#Q7#0#
+Q7O2#Q7#1#
+Q7O3#Q7#null#
+Q7O4#Q7#-1#
+Q9O1#Q9#one class inheriting from more super classes#
+Q9O2#Q9#more classes inheriting from one super class#
+Q9O3#Q9#more classes inheriting from more super classes#
+Q9O4#Q9#None of the above#
+Q10O1#Q10#A public member of a class can be accessed in all the packages.#
+Q10O2#Q10#A private member of a class cannot be accessed by the methods of the same class.#
+Q10O3#Q10#A private member of a class cannot be accessed from its derived class.#
+Q10O4#Q10#A protected member of a class can be accessed from its derived class.#
+Q11O1#Q11#static#
+Q11O2#Q11#final#
+Q11O3#Q11#abstract#
+Q11O4#Q11#const#
+Q12O1#Q12#A class containing abstract methods is called an abstract class.#
+Q12O2#Q12#Abstract methods should be implemented in the derived class.#
+Q12O3#Q12#An abstract class cannot have non-abstract methods.#
+Q12O4#Q12#A class must be qualified as ‘abstract’ class, if it contains one abstract method.#
+Q13O1#Q13#static only#
+Q13O2#Q13#protected#
+Q13O3#Q13#private#
+Q13O4#Q13#both static and final#
+Q14O1#Q14#An interface can extend another interface.#
+Q14O2#Q14#A class which is implementing an interface must implement all the methods of the interface.#
+Q14O3#Q14#An interface can implement another interface.#
+Q14O4#Q14#An interface is a solution for multiple inheritance in java.#
+Q15O1#Q15#A finally block is executed before the catch block but after the try block.#
+Q15O2#Q15#A finally block is executed, only after the catch block is executed.#
+Q15O3#Q15#A finally block is executed whether an exception is thrown or not.#
+Q15O4#Q15#A finally block is executed, only if an exception occurs.#
+Q16O1#Q16#In java, an instance field declared public generates a compilation error.#
+Q16O2#Q16#int is the name of a class available in the package java.lang#
+Q16O3#Q16#Instance variable names may only contain letters and digits.#
+Q16O4#Q16#A class has always a constructor (possibly automatically supplied by the java compiler).#
+Q17O1#Q17#Must have the same name as the class it is declared within.#
+Q17O2#Q17#Is used to create objects.#
+Q17O3#Q17#May be declared private#
+Q17O4#Q17#(a), (b) and (c) above.#

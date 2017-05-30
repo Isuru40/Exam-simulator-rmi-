@@ -1,0 +1,15 @@
+Q2# Which of the following most closely describes the process of overriding?  #OOP#easy#
+Q3#Additional information sent when an exception is thrown may be placed in#OOP#easy# 
+Q4#In a class specifier ,data or function designated private are accessible#OOP#easy#
+Q5#Exception handling is targeted at#OOP#easy#
+Q6#The mechanism that binds code and data together and keeps them secure from outside world is known as#OOP#easy#
+Q7#The default value of a static integer  variable of a class in Java is#OOP#easy#
+Q9#Multiple inheritance means,#OOP#easy#
+Q10#Which statement is not true in java language?#OOP#easy#
+Q11#To prevent any method from overriding, we declare the method as,#OOP#easy#
+Q12#Which one of the following is not true?#OOP#easy#
+Q13#The fields in an interface are implicitly specified as,#OOP#easy#
+Q14#Which of the following is not true?#OOP#easy#
+Q15#Which of the following is true?#OOP#easy#
+Q16#Which of the following is TRUE?#OOP#medium#
+Q17#A constructor#OOP#easy#
